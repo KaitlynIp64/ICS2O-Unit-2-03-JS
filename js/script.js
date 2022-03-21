@@ -5,7 +5,7 @@
 // This file contains the JS functions for index.html
 
 /**
- * This function gets users first name and age and shows it back to user.
+ * This function gets user's adress number and adress name and shows it back to user.
  */
 function enterClicked() {
   // input
@@ -14,5 +14,5 @@ function enterClicked() {
 
   // output
   document.getElementById("address").innerHTML =
-    "Your info is: " + streetNumber + ", streetNumber " + streetAddress + "."
+    "Your info is: " + streetNumber + ", number " + streetAddress + "."
 }
