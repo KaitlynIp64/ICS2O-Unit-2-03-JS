@@ -5,7 +5,7 @@
 // This file contains the JS functions for index.html
 
 /**
- * This function gets user's adress number and adress name and shows it back to user.
+ * This function gets user's address number and address name and shows it back to user.
  */
 function enterClicked() {
   // input
